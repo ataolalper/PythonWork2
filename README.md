@@ -1,1 +1,2 @@
-This file is Python Homework 1 by Ataol ALPER
+This file was created by Ataol ALPER.
+It includes Python Homework 2.
